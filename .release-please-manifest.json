@@ -1,0 +1,19 @@
+{
+  "bootstrap-sha": "24e0338449abde849999cbf6c2b9ffb857cdcd8a",
+  "release-type": "node",
+  ".": "5.53.0",
+  "changelog-sections" : [
+    { "type": "feat", "section": "Features" },
+    { "type": "feature", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "perf", "section": "Performance Improvements" },
+    { "type": "revert", "section": "Reverts" },
+    { "type": "docs", "section": "Documentation", "hidden": false },
+    { "type": "style", "section": "Styles", "hidden": false },
+    { "type": "chore", "section": "Miscellaneous Chores", "hidden": false },
+    { "type": "refactor", "section": "Code Refactoring", "hidden": false },
+    { "type": "test", "section": "Tests", "hidden": false },
+    { "type": "build", "section": "Build System", "hidden": false },
+    { "type": "ci", "section": "Continuous Integration", "hidden": false }
+  ]
+}

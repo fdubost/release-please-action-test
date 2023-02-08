@@ -1,6 +1,6 @@
 {
   "name": "release-please-action-test",
-  "version": "5.53.1",
+  "version": "2022.2.6",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

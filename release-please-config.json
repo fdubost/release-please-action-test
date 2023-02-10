@@ -4,7 +4,7 @@
   },
   "bootstrap-sha": "46e6530f6a382f228580bac4d6e993a9b91a71f9",
   "release-type": "node",
-  "versioning-strategy": "always-bump-minor",
+  "versioning": "always-bump-minor",
   "changelog-sections" : [
     { "type": "feat", "section": "Features" },
     { "type": "feature", "section": "Features" },

@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.63.0](https://github.com/fdubost/release-please-action-test/compare/v5.62.0...v5.63.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** fix sed ([9c3cf94](https://github.com/fdubost/release-please-action-test/commit/9c3cf94c62f6a79a7dd9c1dd92c7aefd84bea1f4))
+
 ## [5.62.0](https://github.com/fdubost/release-please-action-test/compare/v5.61.0...v5.62.0) (2023-02-10)
 
 

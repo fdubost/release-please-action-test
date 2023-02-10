@@ -23,5 +23,5 @@ jobs:
           sed -i 's/always-bump-minor/always-bump-patch/' release-please-config.json
           git add release-please-config.json
           git commit -m "Patch everything"
-          git co -b hotfixes/v${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }}.x
+          git checkout -b hotfixes/v${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }}.x
           git push origin hotfixes/v${{ steps.release.outputs.major }}.${{ steps.release.outputs.minor }}.x || true

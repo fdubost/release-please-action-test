@@ -1,5 +1,23 @@
 # Changelog
 
+## [5.62.0](https://github.com/fdubost/release-please-action-test/compare/v5.61.0...v5.62.0) (2023-02-10)
+
+
+### Features
+
+* **app:** change text ([44fb502](https://github.com/fdubost/release-please-action-test/commit/44fb502aee132aaa20b19ca361cd16739f2baa4c))
+
+
+### Bug Fixes
+
+* **app:** fix text ([df0722b](https://github.com/fdubost/release-please-action-test/commit/df0722b8b1b8f7e5e7621adbdd1d53d5847ac4e3))
+* **css:** fix height ([f690942](https://github.com/fdubost/release-please-action-test/commit/f690942d3a1ef0827460458e8921f81f16f323c4))
+
+
+### Miscellaneous Chores
+
+* **release:** test auto hotfixes branch ([09f9bb9](https://github.com/fdubost/release-please-action-test/commit/09f9bb907eadc288643163026a568ba7e1b02dbf))
+
 ## [5.61.0](https://github.com/fdubost/release-please-action-test/compare/v5.60.0...v5.61.0) (2023-02-10)
 
 

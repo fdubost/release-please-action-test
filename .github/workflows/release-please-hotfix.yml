@@ -17,5 +17,4 @@ jobs:
         with:
           release-type: node
           command: manifest
-          versioning-strategy: "always-bump-patch"
           default-branch: ${{ steps.extract_branch.outputs.branch }}

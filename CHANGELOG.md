@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.60.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.59.0...release-please-action-test-v5.60.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** modif job name ([a53216c](https://github.com/fdubost/release-please-action-test/commit/a53216c4b0eae2260735db35a83d32ebb2d1c049))
+
 ## [5.59.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.58.0...release-please-action-test-v5.59.0) (2023-02-10)
 
 

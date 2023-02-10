@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.58.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.57.0...release-please-action-test-v5.58.0) (2023-02-10)
+
+
+### Features
+
+* **app:** message olé olé ([8186230](https://github.com/fdubost/release-please-action-test/commit/8186230146d5e0bbfa590f8fd30950169008e78a))
+
 ## [5.57.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.56.0...release-please-action-test-v5.57.0) (2023-02-10)
 
 

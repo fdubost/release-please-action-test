@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Coucou tu veux ? Non !
+          Les rigolos !
         </a>
       </header>
     </div>

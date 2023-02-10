@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.66.0](https://github.com/fdubost/release-please-action-test/compare/v5.65.0...v5.66.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** abruti ([b50fb30](https://github.com/fdubost/release-please-action-test/commit/b50fb305f6334e1a58cfc61e28abc785d1174f91))
+
 ## [5.65.0](https://github.com/fdubost/release-please-action-test/compare/v5.64.0...v5.65.0) (2023-02-10)
 
 

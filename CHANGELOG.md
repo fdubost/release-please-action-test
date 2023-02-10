@@ -1,5 +1,20 @@
 # Changelog
 
+## [5.67.0](https://github.com/fdubost/release-please-action-test/compare/v5.66.0...v5.67.0) (2023-02-10)
+
+
+### Features
+
+* **app:** change message ([dd50cd9](https://github.com/fdubost/release-please-action-test/commit/dd50cd999caf26e884bc6ddaf45c073bb81aeedc))
+
+
+### Miscellaneous Chores
+
+* **release:** clean workflow files ([1498fe8](https://github.com/fdubost/release-please-action-test/commit/1498fe8f9fcb259428127a31ea80f9f463eaf596))
+* **release:** component doesn't work ([11edd2e](https://github.com/fdubost/release-please-action-test/commit/11edd2e2c6622e62817ef6989a3723433540f78a))
+* **release:** test a [link](https://bedrock.tpondemand.com/entity/1747) ([7e1be28](https://github.com/fdubost/release-please-action-test/commit/7e1be28a6028695ce4adba0639878ed96e75405e))
+* **release:** test component ([36e720c](https://github.com/fdubost/release-please-action-test/commit/36e720c31b665a8e43a5e8e40ccff0a3cd6beb69))
+
 ## [5.66.0](https://github.com/fdubost/release-please-action-test/compare/v5.65.0...v5.66.0) (2023-02-10)
 
 

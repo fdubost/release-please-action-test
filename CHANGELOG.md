@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.64.0](https://github.com/fdubost/release-please-action-test/compare/v5.63.0...v5.64.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** still fix hotfix ([6933834](https://github.com/fdubost/release-please-action-test/commit/6933834e5791c9c0f09d775b81b24ebf935b807f))
+
 ## [5.63.0](https://github.com/fdubost/release-please-action-test/compare/v5.62.0...v5.63.0) (2023-02-10)
 
 

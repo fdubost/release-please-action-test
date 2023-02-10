@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - hotfixes/*
-name: release-please
+name: release-please-hotfixes
 jobs:
   release-please:
     runs-on: ubuntu-latest

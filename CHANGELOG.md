@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.65.0](https://github.com/fdubost/release-please-action-test/compare/v5.64.0...v5.65.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** fuck branch ([723e640](https://github.com/fdubost/release-please-action-test/commit/723e640c303c1bed9a84268d3de61bc754023970))
+
 ## [5.64.0](https://github.com/fdubost/release-please-action-test/compare/v5.63.0...v5.64.0) (2023-02-10)
 
 

@@ -1,5 +1,17 @@
 # Changelog
 
+## [5.59.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.58.0...release-please-action-test-v5.59.0) (2023-02-10)
+
+
+### Miscellaneous Chores
+
+* **release:** debug ([76ce3fc](https://github.com/fdubost/release-please-action-test/commit/76ce3fc72ad79392d15f593fb245ce5c21c03160))
+* **release:** hotfix workflow ([cfc8c3d](https://github.com/fdubost/release-please-action-test/commit/cfc8c3d3918d61e2f1ecb7285b646705b5d78d18))
+* **release:** test another config ([def6f09](https://github.com/fdubost/release-please-action-test/commit/def6f09ff27f56f6fda18315ca0f93f515bc4325))
+* **release:** test fix versioning ([0f4701e](https://github.com/fdubost/release-please-action-test/commit/0f4701e3e24df1113d1af18eabe21277d7a507b3))
+* **release:** test other config strategy ([eca6e89](https://github.com/fdubost/release-please-action-test/commit/eca6e893a0d3bb58253adae9345e521d6d680bfd))
+* **release:** test with a hardcoded branch ([6886e0d](https://github.com/fdubost/release-please-action-test/commit/6886e0dd293d69a2e1e70aad4a5177e493ad2cc0))
+
 ## [5.58.0](https://github.com/fdubost/release-please-action-test/compare/release-please-action-test-v5.57.0...release-please-action-test-v5.58.0) (2023-02-10)
 
 

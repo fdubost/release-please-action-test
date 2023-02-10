@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.66.1](https://github.com/fdubost/release-please-action-test/compare/v5.66.0...v5.66.1) (2023-02-10)
+
+
+### Features
+
+* **app:** change message ([25740ec](https://github.com/fdubost/release-please-action-test/commit/25740ec5bfcdff32ba38eb7c7f5cd3f5a54c9c76))
+
 ## [5.66.0](https://github.com/fdubost/release-please-action-test/compare/v5.65.0...v5.66.0) (2023-02-10)
 
 
